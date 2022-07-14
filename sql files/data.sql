@@ -10,8 +10,9 @@ create Table points(
     points int,
     offerid int not null
 );
-insert into user(empid,emp_username,emp_password) values (1,'Ashish','Ashish');
-insert into user(empid,emp_username,emp_password) values (2,'Prateek','Prateek');
-insert into user(empid,emp_username,emp_password) values (3,'Manvendra','Manvendra');
-insert into user(empid,emp_username,emp_password) values (4,'megha','Megha');
+insert into user(empid,emp_username,emp_password) values (1,'Hariprasad','Hariprasad');
+insert into user(empid,emp_username,emp_password) values (2,'Varun','Varun');
+insert into user(empid,emp_username,emp_password) values (3,'Rajesh','Rajesh');
+insert into user(empid,emp_username,emp_password) values (4,'Shruthy','Shruthy');
 insert into user(empid,emp_username,emp_password) values (5,'Test','Test');
+    
